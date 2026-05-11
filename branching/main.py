@@ -1,1 +1,1 @@
-print("Hello from main.py")
+print("merge test")
